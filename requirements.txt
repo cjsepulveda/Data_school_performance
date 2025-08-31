@@ -1,0 +1,4 @@
+ipywidgets
+ipython
+plotly
+pandas
